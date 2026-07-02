@@ -38,7 +38,7 @@ I'm passionate about building modern, responsive, and user-friendly web applicat
 ### Frontend
 
 <p>
-<img src="https://skillicons.dev/icons?i=react,bootstrap, react bootstrap" />
+<img src="https://skillicons.dev/icons?i=react,bootstrap" />
 </p>
 
 ### Backend
