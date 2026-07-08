@@ -89,7 +89,7 @@ A complete guard management system for managing employee details, shifts, experi
 
 **Tech Stack**
 
-React.js • Node.js • MongoDB
+React.js • Javascript • Tailwind CSS • Axios • Tanstack Query • MongoDB
 
 ---
 
